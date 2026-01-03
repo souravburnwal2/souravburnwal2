@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourav Burnwal</h1>
 <h3 align="center">A passionated ML Engineering student from India</h3>
 
-- 🔭 I’m currently working on **Rag Sytem**
+- 🔭 I’m currently working on **Rag System**
 
 - 📫 How to reach me **souravbarnwal890@gmail.com**
 
